@@ -1,0 +1,3 @@
+{
+"run_list" :["recipe[training]","recipe[training::gitinstall]"]
+}
